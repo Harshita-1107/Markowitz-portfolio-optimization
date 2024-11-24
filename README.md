@@ -1,4 +1,4 @@
-# **Portfolio Optimization and Risk Management**
+# **Markowitz Portfolio Optimization**
 
 This project implements a portfolio optimization model to analyze and optimize stock allocations using historical financial data. The model computes risk-return metrics, simulates portfolios, and visualizes the Efficient Frontier, providing actionable insights for portfolio management.
 
