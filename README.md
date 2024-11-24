@@ -66,7 +66,7 @@ This project implements a portfolio optimization model to analyze and optimize s
 
 3. Run the script.  
    ```bash
-   python Markowitz-portfolio-optimization.py
+   python Markowitz_portfolio_optimization.py
    ```
 
 4. Outputs:  
